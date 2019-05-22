@@ -13,3 +13,4 @@ You will learn how to:
 
 ## Module Content
 
+1. [Web Design Attributes](design-1.md)

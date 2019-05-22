@@ -1,4 +1,4 @@
-# Design 1: Web Design
+# Design 1: Web Design Attributes
 
 The first module will introduce you to key web design attributes and conventions. These will become more apparent as you start looking at, and thinking critically about, a wide range of different websites. One of the main aims of this module is to make you aware of the wide range of different styles that are used to define a website.
 
@@ -7,11 +7,14 @@ The first module will introduce you to key web design attributes and conventions
 As a new student, or even a student with existing knowledge of the field, it is super important to first understand the area in which you are working. By that I mean you should be familar with current Web design trends, conventions and common attributes. 
 
 ## Web Design research
-Use these links to start your research process. 
+Use these links to start your research process: 
 
 *   [Site Inspire](https://www.siteinspire.com)
 *   [Httpster](https://httpster.net/2018/jan/)
 *   [Awwards](https://www.awwwards.com)
+
+!!! tip
+    There are heaps more, just try Googling 'web design inspiration'
 
 ## What to look for...
 
@@ -53,6 +56,7 @@ We'll talk more about responsive design in [module 4](/../../module-4/).
 How is the bulk of the page aligned?
 
 Generally, it would be:
+
 *   Centered 
 *   Left aligned
 *   Fluid (full width, no real alignment)
@@ -115,6 +119,7 @@ Or to rotate through some images or video, bringing the website to life.
 Most websites stick to a colour scheme
 
 Lots of tools to help with choosing a colour scheme:
+
 *   [HTML Colour Codes](https://htmlcolorcodes.com/)
 *   [Colour Lovers](https://www.colourlovers.com/)  
 *   [Adobe Color](https://color.adobe.com/create)

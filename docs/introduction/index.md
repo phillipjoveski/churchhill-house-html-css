@@ -59,18 +59,12 @@ There are 4 modules:
 
 
 
-
-
-
 ## Project 2: Responsive Website
 
 - Content from all modules
 - Build upon the work you've done in Module 1
 - CSS and HTML
 - Build, test, refine
-
-
-
 
 
 ## Quiz
@@ -163,6 +157,13 @@ That means:
 ## The End.
 
 **Questions?**
+
+## Slides
+
+Available [here](1.slides.html)
+
+Test [here](test.html)
+
 
 
 
