@@ -2,6 +2,9 @@
 
 Media queries allow you to break off specific styles for specific browser types and sizes.
 
+
+
+
 ## Meet Media Queries
 Media Queries allow us to build on a flexible framework, and customise styles for different screen types and sizes.
 
@@ -19,6 +22,7 @@ B. the actual query enclosed within parentheses, containing a particular media f
 <hr>
 
 
+
 ## Core ingredients
 So what does it take to create a responsive design? 
 
@@ -29,10 +33,14 @@ Speaking purely in terms of front-end layout, it takes three core ingredients:
 *   Media queries
 
 
+
 ## Use flexible everything
 *   Start with a flexible grid
 *   Use relative units (`rem`, `em`, etc) Make your images flexible
 *   Make your code simple & robust
+
+
+
 
 ### Mobile first?
 Consider mobile first. 
@@ -43,14 +51,16 @@ That doesn’t mean you need to code that way.
 *   Either way, ensure you considered responsive optimisation when you planned your content; screen sizes, connection speeds, device capabilities, fat fingers vs mouse pointers, hover states etc will all affect your coding.
 
 <hr>
-## Let's get into it
 
-### Relative units & Flexible Typesetting
+## Relative units & Flexible Typesetting
 *   `Em`
 *   `Rem`
 *   `Vw`, `vh` & `vmin`
 
-#### Em
+
+
+
+### Em
 
 `1em` = `16px` in most browsers
 
@@ -63,7 +73,10 @@ target ÷ context = result
 24 ÷ 16 = 1.5
 font-size: 1.5em;
 ```
-#### Em’s are inherited
+
+
+
+### Em’s are inherited
 
 Whenever you set an em-based `font-size` on any container, you now need to calculate any nested font sizes based on that new `font-size`!
 
@@ -77,7 +90,8 @@ font-size: 0.45833333333333em
 Don’t round that number if you’re trying to stay true to a design! `0.46em` might be neater, but proportionately it wont match.
 
 
-#### Rem
+
+### Rem
 A relative unit, like `em`
 
 But it is always relative to the "root" element rather than using the inherited cascade like em does
@@ -86,7 +100,9 @@ This vastly simplifies working with relative units!
 One great technique:
 **`Px`** at the Root, **`Rem`** for Components, **`Em`** for Text Elements
 
-#### Vw, vh & vmin
+
+
+### Vw, vh & vmin
 CSS3 has some new values for sizing things relative to the current viewport size.
 
 `1vw` = `1%` of viewport width  
@@ -94,6 +110,8 @@ CSS3 has some new values for sizing things relative to the current viewport size
 `1vmin` = `1vw` or `1vh`, whichever is smaller  
 `1vmax` = `1vw` or `1vh`, whichever is larger  
 If the viewport is 40cm wide, `1vw` = 0.4cm  
+
+
 
 ### Flexible Grids
 How to get started with flexible grids?  
@@ -108,6 +126,8 @@ _target ÷ context = result_
 `700 ÷ 1000 = 0.7 = 70%`  
 `290 ÷ 1000 = 0.3 = 29%`  
 `200 ÷ 700 = 0.285 = 28.5%`  
+
+
 
 ### Media queries
 
@@ -124,10 +144,14 @@ The query contains two components:
 A. a media type (`screen`), and
 B. the actual query enclosed within parentheses, containing a particular media feature (`max-device-width`) to inspect, followed by the target value (`480px`).
 
+
+
 #### Extra reading
 *   Read more about [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)! Media Queries are the kings of Responsive Web Design.
 *   Specific ways to write [fancy logic-based media queries](https://css-tricks.com/logic-in-media-queries/) based on different browser types, sizes, etc.
-*   
+
+
+
 
 ### Media Queries & Breakpoints
 *   We used to add media queries for the most popular mobile pixel dimensions. The explosion of new tablets, smartphones & touch devices means that we don’t have a preset list of dimensions anymore!
@@ -137,20 +161,17 @@ B. the actual query enclosed within parentheses, containing a particular media f
 
 You can read about why [basing your media queries on specific device sizes is doomed to failure](https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints). 
 
+
+
+
 #### Extra reading
 * [Defining breakpoints](https://responsivedesign.is/strategy/page-layout/defining-breakpoints/)
 * [CSS Tricks: Specificity ](https://css-tricks.com/specifics-on-css-specificity/)
 
 
 
-### Grid Systems & Frameworks
 
-**Can you use Bootstrap? (Or similar)**
-If you feel that you’re an advanced enough coder to properly utilise pre-built frameworks, I’m happy for you to use them.
-
-However we will specifically be looking out for tell-tale signs that you let the framework “carry” your design!
-
-Avoid counting on your framework to design your website. Don’t let it determine your layout.
+## Grid Systems & Frameworks
 
 ### CSS Grid Layout
 
@@ -162,11 +183,14 @@ You can use CSS grids to create complex responsive layouts whilst still ensuring
 *   [Realizing common layouts using CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout) from Mozilla MDN
 
 
+
 ### Flex-box
 
 > The Flexbox Layout (Flexible Box) module (a W3C Candidate Recommendation as of October 2017) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word "flex").
 
 Read the CSS Tricks [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for a very detailed introduction.
+
+
 
 #### Grid or Flexbox
 
@@ -179,7 +203,8 @@ Grid is for two-dimensional layouts.  It can be used as a low-powered
 flexbox substitute (we're trying to make sure that a single-column/row
 grid acts very similar to a flexbox), but that's not using its full
 power.  
-Flexbox is appropriate for many layouts, and a lot of "page component"
+
+>    Flexbox is appropriate for many layouts, and a lot of "page component"
 elements, as most of them are fundamentally linear.  Grid is
 appropriate for overall page layout, and for complicated page
 components which aren't linear in their design.  
@@ -190,6 +215,9 @@ components of the page, and finally block/inline/table layout at the
 "leaves" of the page, where the text and content live.
 
 [CSS-grid-layout - Relationship with Flexbox](http://lists.w3.org/Archives/Public/www-style/2013May/0114.html)
+
+
+
 
 ### Flexible images
 
@@ -206,7 +234,46 @@ While there are many different advanced solutions, there is usually one very bas
 This forces any image to adjust to the container width.
 
 
+
+
+### Front-end Frameworks
+
+Many of you would already have heard of Bootstrap, even from my warning at the beginning of the unit - "don't use Bootstrap!"
+
+Front-end frameworks are packages of pre-written code which are created to give you a base on which to build upon. They allow for rapid devlopment becuase you don't need to spend a huge amount of time creating your base elements, typography, navigation etc. 
+
+As [Bootstrap](https://getbootstrap.com/) says:
+
+> Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+
+
+A typical front-end framework would generally contain the following components:
+
+*   A grid which makes it simple to organise the design elements of your website
+*   Pre-defined typography settings - for headings, paragraphs, lists etc. 
+*   Pre-built components like side panels, buttons, navigation, prompts etc
+
+Two of the most common front-end frameworks are:
+
+*   [Bootstrap](https://getbootstrap.com/)
+*   [Foundation](https://foundation.zurb.com/)
+
+And one I really like:
+
+*   [Skeleton](http://getskeleton.com/)
+
+The problem with many frameworks is that developers/designers let the framework "carry" the design, rather than creating something unique. 
+
+It is key to avoid counting on your framework to design your website. Don’t let it determine your layout.
+
+Go and have a look at various websites and you'll quickly realise what I mean. Check out [Every Bootstap Website Ever](https://www.dagusa.com/) to really understand. Also, read this article: [Why I shouldn't use a Web framework](https://dev.to/gypsydave5/why-you-shouldnt-use-a-web-framework-3g24)
+
+Don't use a framework for this unit, but do have a look, you'll might want to utilise one in the future!
+
 <hr>
+
+
+
 
 ### Readings
 *   Trent Walton’s blog (anything!): [Fit to scale](http://trentwalton.com/2011/05/10/fit-to-scale/); [Fluid type](http://trentwalton.com/2012/06/19/fluid-type/); [Flexible foundations](http://trentwalton.com/2013/01/07/flexible-foundations/)

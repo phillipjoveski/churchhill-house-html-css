@@ -1,14 +1,30 @@
-# CSS 4: Styling navigation
+# CSS 4: Typography
 
 
 ## Introduction
 
-- How to style the navigation
+- We will look at how to style text in CSS
 
-Important to remember:  
 
-!!! warning
-    - All navigation must be within a `<ul>` tag
-    - Only primary navigation should be within the `<nav>` tag
+
+## Key properties 
+
+We will discuss the following:
+
+```
+h2 {
+    font-family: ;
+    font-size: ;
+    font-weight: ; 
+    line-height: ; 
+    color: ;
+}
+```
+
+
+## Want more?
+
+*   Check the Mozilla [CSS Fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts) docs for all available options
+*   Evnvato post on [creative font techniques](https://envato.com/blog/css3-typography-code-snippets/)
 
 

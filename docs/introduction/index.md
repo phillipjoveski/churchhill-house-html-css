@@ -8,10 +8,13 @@
 - Important things you need to know
 
 
+
 ## Teaching Staff
 
 Me! Dr **Ben Ennis Butler**: unit convenor and tutor  
 Email: [ben.ennis.butler@canberra.edu.au](mailto:ben.ennis.butler@canberra.edu.au). Office 7C39.
+
+
 
 ## Learning Outcomes
 
@@ -22,6 +25,7 @@ By the end of this unit, we want you to be able to:
 3. Review and evaluate appropriate development methodologies in the creation of interactive works.
 
 
+
 ## How we do it
 
 - You will learn how to write code (html and css)  
@@ -29,6 +33,7 @@ By the end of this unit, we want you to be able to:
 
 - We hit the ground running!   
 - We’ll cover a lot of content, especially in the first few weeks.
+
 
 
 ## Module approach
@@ -67,6 +72,7 @@ There are 4 modules:
 - Build, test, refine
 
 
+
 ## Quiz
 
 - Content from all modules
@@ -76,13 +82,9 @@ There are 4 modules:
 
 
 
-
-
 ## Your responsibilities
 
 You need to check the unit outline and assessment information on Canvas to ensure you are following the brief and understand what is required of you…  
-
-
 
 
 
@@ -97,8 +99,6 @@ That means:
 
 
 
-
-
 ## Plagiarism
 
 - Don’t copy other people’s code! 
@@ -106,10 +106,6 @@ That means:
 - That means don’t just refer to W3Schools (or an online resource) and take their examples
 - You need to demonstrate your understanding with comments in the code
 - If you are unsure, then ask us
-
-
-
-
 
 
 
@@ -144,6 +140,7 @@ That means:
 -   Link is all over Canvas. 
 
 
+
 ## Front-end Web 
 
 - What is it?
@@ -154,17 +151,7 @@ That means:
 - CSS: Cascading Style Sheets
 
 
+
 ## The End.
 
 **Questions?**
-
-## Slides
-
-Available [here](1.slides.html)
-
-Test [here](test.html)
-
-
-
-
-

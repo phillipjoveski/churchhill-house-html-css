@@ -50,7 +50,7 @@ Trying to cater to a set range of specific device types & sizes:
  
 ### Bandaid #3: The App
 *   Even now, companies are being sold mobile apps as a solution to their responsive woes.
-*   An App is a tool that makes use of native device features such as location based services, notifications, or * sensors such as camera, microphone and accelerometer.
+*   An App is a tool that makes use of native device features such as location based services, notifications, or sensors such as camera, microphone and accelerometer.
 *   An app is not the answer to viewing websites on your mobile device.
 
 ### The solution
@@ -102,22 +102,22 @@ Essentially, the argument is that a Web site should respond to the needs of the 
 
 For more context, read the Wikipedia page entry: [Responve Web Design](https://en.wikipedia.org/wiki/Responsive_web_design) which provides a wealth of additional resources. 
 
-#### Other theories and concepts
+### Other theories and concepts
 As you might have started to realise, when it comes to web design and development, there are a lot of different theories and concepts that emerge and then disappear as new ones increase in popularity. Other concepts you might see include:
 
-##### Graceful degradation
+#### Graceful degradation
 The idea here is that a designer would create a web page using the latest tools and technology available to them, but the site would still remain usable/presentable even if the user didn't have those tools or technology installed. You might have seen this with old Flash-based video sites, you could still access the website, but you'd get a notice advising you to install the latest version of Flash player so that you could use the site in the way the designer anticipated. 
 
-##### Progressive enhancement
+#### Progressive enhancement
 This concept dates back to 2003. The W3C explains it as:
 > You start by establishing a basic level of user experience that all browsers will be able to provide when rendering your web site, but you also build in more advanced functionality that will automatically be available to browsers that can use it.
 
 There is a great comparison of the two from the W3C here: [Graceful degradation versus progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement)
     
-##### Flexible design
+#### Flexible design
 This concept predates responsive web design, but could certinaly be considered as an early push in the right direction. It was first published in a book by Zoe Gillenwater, (2008), availabe in the [UC library](https://library.canberra.edu.au/discovery/fulldisplay?docid=alma991001760009703996&context=L&vid=61ARL_CNB:61ARL_CNB&search_scope=MyInst_and_CI&tab=Everything&lang=en) and [online](http://www.flexiblewebbook.com).  The aim here is to consider how to build CSS layouts which respond to different screen sizes - on a desktop computer. It was targeted at designers who has always worked with print-based grid layouts and needed to reconsider how they could be used online. 
 
-##### ‘Journey driven design'
+#### ‘Journey driven design'
 A new theory to combat the popularity of _mobile-first design_. The argument here is that, yes, a lot of people do interact with the site on mobile - but they supplment their browsing with both desktop and tablet devices. So, in turn, we should think about the entire journey a user undertakes. Read more from Smashing Magazine [here](https://www.smashingmagazine.com/2017/02/mobile-first-is-just-not-good-enough-meet-journey-driven-design/).
 
 <hr>
@@ -169,14 +169,18 @@ It is crucial that you use semantic markup when creating your websites.
 ### The Design
 
 Where should you start?
+
 *   Use visual designs (pen/paper, Photoshop or similar) for quick layout exploration and asset creation
 *   It’s impossible to accurately assess a responsive layout in .JPG form
 *   a single Photoshop composition will only express a sliver of the layout potential a fully-flexible responsive site has...
 
 **Don't waste your time in Photoshop** 
 
-I'm a strong believer of using the _sketching in code_ methodology. This approach encourages rapid prototyping, directly with code. Read David Verba's [Sketching in Code: the Magic of Prototyping
-](https://alistapart.com/article/sketchingincode) article from 2008 or Jared M. Spool's reflection [here](https://articles.uie.com/sketching_in_code/).
+I'm a strong believer of using the _sketching in code_ methodology. This approach encourages rapid prototyping, directly with code. Read:
+
+*   David Verba's [Sketching in Code: the Magic of Prototyping
+](https://alistapart.com/article/sketchingincode) article from 2008 or 
+*   Jared M. Spool's reflection [here](https://articles.uie.com/sketching_in_code/).
 
 ### Mockups & wireframes
 

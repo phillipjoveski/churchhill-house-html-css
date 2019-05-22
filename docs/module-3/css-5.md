@@ -1,28 +1,14 @@
-# CSS 5: Links and images
-
-
-## Styling Links
+# CSS 5: Styling navigation
 
 
 ## Introduction
 
-- How to make links look a bit more interesting
+- How to style the navigation
 
+Important to remember:  
 
-## Key properties
-
-```
-a {}
-a:hover {}
-a:visited {}
-a:active {}
-
-```
-
-
-## Images
-
-
-
+!!! warning
+    - All navigation must be within a `<ul>` tag
+    - Only primary navigation should be within the `<nav>` tag
 
 

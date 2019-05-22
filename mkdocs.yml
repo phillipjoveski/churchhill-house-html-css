@@ -1,12 +1,41 @@
-site_name: Front-end Web Design (WIT 2019)
+# Project information
+site_name: UC Front-end Web Design (WIT 2019)
+site_description: 'Unit content for 11056, Front-end Web Design. WIT, 2019.'
+site_author: 'Dr Ben Ennis Butler'
+site_url: 'https://uc-design.github.io/11056-wit-2019/'
+
+# Configuration
 theme:
   name: 'material'
   custom_dir: 'theme'
+  language: 'en'
+  palette:
+    primary: 'green'
+    accent: 'green'
   
+# Custom CSS
 extra_css:
-  - stylesheets/extra.css
-  
+  #- stylesheets/extra.css
+
+# Extensions
 markdown_extensions:
   - admonition
   - codehilite:
       linenums: true
+
+# Copyright
+copyright: '&copy; 2019 Ben Ennis Butler for the University of Canberra'
+
+# Customisation
+extra:
+  social:
+#    - type: 'globe'
+#      link: 'http://uclearn.canberra.edu.au'
+    - type: 'graduation-cap'
+      link: 'http://uclearn.canberra.edu.au'
+    - type: 'github'
+      link: 'https://github.com/UC-Design/11056-wit-2019/'
+
+
+repo_name: 'UC Canvas Home'
+repo_url: 'http://uclearn.canberra.edu.au'

@@ -13,6 +13,8 @@ Generate new site using: `mkdocs gh-deploy`
 
 Info [here](https://www.mkdocs.org/user-guide/deploying-your-docs/). Will deploy to gh-pages branch in GitHub repo. 
 
+Tips etc are from [Admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/)
+
 ## Canvas
 Canvas login available [here](http://uclearn.canberra.edu.au)
 
