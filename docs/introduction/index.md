@@ -1,10 +1,6 @@
 
-## Introduction
-
-
-
-
 # Welcome
+
 ## This lecture
 
 - Introduction to the unit
@@ -12,20 +8,10 @@
 - Important things you need to know
 
 
-
-
-
-
-
 ## Teaching Staff
 
 Me! Dr **Ben Ennis Butler**: unit convenor and tutor  
 Email: [ben.ennis.butler@canberra.edu.au](mailto:ben.ennis.butler@canberra.edu.au). Office 7C39.
-
-
-
-
-
 
 ## Learning Outcomes
 
@@ -34,11 +20,6 @@ By the end of this unit, we want you to be able to:
 1. Identify and critique a range of front-end web design concepts, skills and theories;
 2. Experiment with the creation of web-based interactive interfaces using appropriate concepts and techniques; and
 3. Review and evaluate appropriate development methodologies in the creation of interactive works.
-
-
-
-
-
 
 
 ## How we do it
@@ -50,38 +31,27 @@ By the end of this unit, we want you to be able to:
 - We’ll cover a lot of content, especially in the first few weeks.
 
 
-
-
-
-
-
 ## Module approach
 
 There are 4 modules:
-- Designing for the Web 
--   HTML 
--   CSS
-- Responsive CSS
 
-
-
-
-
+1. Designing for the Web 
+2. HTML 
+3. CSS
+4. Responsive CSS
 
 
 
 ## Assessment items
 
-### 3 assignments  
-- Website Sketch: HTML. 15%. Due 5pm Friday, week 2
-- Website Sketch: CSS. 25%. Due 5pm Friday, week 5
-- Front-end Website Project. 60%. Due 5pm Friday, week 12
+** 3 assessment items ** 
+
+-   Project 1: Website Design. Due Tuesday week 2 by 9am. Worth 25%.
+-   Project 2: Responsive Website. Due Friday week 7. Worth 55%.
+-   Quiz. Due by Friday week 7. Worth 20%.
 
 
-
-
-
-## Website Sketch: HTML
+## Project 1: Website Design
 
 - Content from Module 1 
 - Basic site (no styles) 
@@ -92,21 +62,23 @@ There are 4 modules:
 
 
 
-## Website Sketch: CSS
+## Project 2: Responsive Website
 
-- Content from Module 1
+- Content from all modules
 - Build upon the work you've done in Module 1
 - CSS and HTML
-
-
-
-
-
-## Front-end Website Project
-
-- Content from Modules 1, 2 and 3
 - Build, test, refine
-- We will work on the project in-class
+
+
+
+
+
+## Quiz
+
+- Content from all modules
+- No time limit
+- Multiple choice, true/false etc
+- Easy if you follow along
 
 
 
@@ -124,10 +96,10 @@ You need to check the unit outline and assessment information on Canvas to ensur
 
 You must only submit your own code.  
 That means:
-- HTML5: do not use the <pre><code><table> </table></code></pre>tag to layout content
+- HTML5: do not use the `<table> </table>` tag to layout content
 - No templates, libraries, pre-generated code, content management systems
 - No Bootstrap, Wix, SquareSpace etc
-- Pure css, no SASS
+- Pure CSS, no SASS
 
 
 
@@ -150,29 +122,32 @@ That means:
 ## Materials and Equipment
 
 **Code Editor**
+
 - Many free options available. See links on Canvas.
 
 **GitHub**  
+
 - Free, we'll use this to host your code 
 - Can be a bit intimidating to get start with
-
-
-
 
 
 
 ## Unit structure
 
 **Lectures**  
-- This is the last F2F lecture
-- Traditional lecture content will be delivered in the workshops
+
+- All lecture content available online
+- You should watch these at your own pace and work through the activities
 
 **Workshops**  
+
 - Not recorded
 - We will work on parts of the assessment items in the workshops
 
+**Canvas and GitHub**
 
-
+-   All the unit content will be available on our GitHub page 
+-   Link is all over Canvas. 
 
 
 ## Front-end Web 
@@ -180,12 +155,9 @@ That means:
 - What is it?
 
 **Core languages**  
+
 - HTML: Hyper Text Markup Language
 - CSS: Cascading Style Sheets
-
-
-
-
 
 
 ## The End.

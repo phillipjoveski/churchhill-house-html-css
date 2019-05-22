@@ -11,8 +11,8 @@ Please make sure you refer to Canvas for further information.
 
 The week 1 lecture provides an introduction to the unit. Make sure you watch it and ensure you understand the unit structure and assessment item requirements. If you have any questions, use the discussion forums or email your tutor. 
 
-*   [Slides](1_unit-welcome/1.slides.html)
-*   Lecture recording available on Canvas
+*   [Slides](introduction/1.slides.html)
+*   Lecture recording available on Canvas.
 
 ## Modules
 - Module 1: [HTML5 and CSS](module-1/)

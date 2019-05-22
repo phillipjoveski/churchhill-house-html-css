@@ -10,7 +10,8 @@
 
 ## Key Properties
 
-When considering the box model, the key properties are:  
+When considering the box model, the key properties are: 
+
 - `display`
 - `width`
 - `height`
@@ -21,14 +22,12 @@ When considering the box model, the key properties are:
 
 ## CSS positioning
 
-
 - We will look at how to position elements in CSS
 
 
 ## Key properties
 
 
-We discussed:
 - `float` (Only left or right)
 - `padding`
 - `margin`

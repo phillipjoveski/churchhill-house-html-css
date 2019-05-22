@@ -66,22 +66,20 @@ Normalize.css:
 
 ## Why CSS?
 
-Stands for: Cascading Style Sheets  
+Stands for: **Cascading Style Sheets**  
+
 - Styles cascade from the top to the bottom
 - Styles added later can override ones from the top
 
 Works internally as well  
+
 - If you include the same property twice, the latter one will be used
 
 
 ## Syntax
-<img src="images/css-1-1.png" alt="Syntax" height="500px;">
+![Syntax](./images/css-1-1.png)
 
-
-## Syntax
-
-<img src="images/css-1-2.png" alt="Syntax" height="500px;">                    
-
+![Syntax](./images/css-1-2.png)
 
 
 

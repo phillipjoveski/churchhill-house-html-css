@@ -22,6 +22,9 @@ h2 {
 ```
 
 
+## Want more?
 
+*   Check the Mozilla [CSS Fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts) docs for all available options
+*   Evnvato post on [creative font techniques](https://envato.com/blog/css3-typography-code-snippets/)
 
 

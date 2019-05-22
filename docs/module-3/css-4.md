@@ -6,7 +6,9 @@
 - How to style the navigation
 
 Important to remember:  
-- All navigation must be within a `<ul>` tag
-- Only primary navigation should be within the `<nav>` tag
+
+!!! warning
+    - All navigation must be within a `<ul>` tag
+    - Only primary navigation should be within the `<nav>` tag
 
 
