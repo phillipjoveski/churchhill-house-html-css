@@ -9,9 +9,10 @@ Please make sure you refer to Canvas for further information.
 
 ## Introduction
 
-The week 1 lecture provides an introduction to the unit. Make sure you watch it and ensure you understand the unit structure and assessment item requirements. If you have any questions, use the discussion forums or email your tutor. 
+Please watch the first lecture, which provides an introduction to the unit. Make sure you understand what is required of you, the unit structure and assessment items. If you have any questions, use the discussion forums or email Ben. 
 
-*   [Slides](introduction/1.slides.html)
+Text from the video is available [here](intrduction/) or under the *Introduction* link to the left.
+
 *   Lecture recording available on Canvas.
 
 ## Modules

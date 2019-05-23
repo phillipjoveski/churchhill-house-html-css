@@ -1,5 +1,7 @@
 #  HTML 1: Introduction to the Web
 
+
+
 ##  Introducion
 
 An introduction to the Web
@@ -8,6 +10,8 @@ An introduction to the Web
 - Domains and hosting
 - Production process
 - Key terms (HTML and CSS)
+
+
 
 ##  The internet and the Web
 
@@ -22,6 +26,7 @@ Other protocols include:
 - Domain Name System (DNS)
 
 
+
 ##  How the Web works
 
 *   User enters domain
@@ -29,6 +34,7 @@ Other protocols include:
 *   DNS server returns IP address 
 *   IP address points to web host (server)
 *   Web host returns actual website 
+
 
 
 ## Domains and Hosting
@@ -42,6 +48,7 @@ www.google.com
 `www`: hostname
 `google`: name
 `com`: top level domain
+
 
 
 ###  Getting a domain
@@ -70,7 +77,13 @@ They make sure their servers can:
 Depending on your requirements, hosting can be cheap or really expensive
 
 
+
 ## Key terms
+
+*   HTML
+*   CSS
+
+
 
 ###  HTML
 
@@ -112,6 +125,7 @@ p {
     </p>
     
 ```
+
 
 
 ## Production Process

@@ -1,19 +1,21 @@
 # Module 4: Responsive CSS
 
-_Workshops are not recorded._
-
 ## This module
 The content in this module will allow you to expand your understanding of CSS by introducing the concept of responsive CSS. You will learn:
+
 *   Where the concept emerged from
 *   How to write CSS media queries 
 *   How to define appropriate breakpoints
 *   All about relative units, flexible images, grid systems
 
 
-## Workshop Content
+## Module Content
 
-*   [Theories and Concepts](responsive-1.md)
-*   [The code](responsive-2.md)
+1.  [Theories and Concepts](responsive-1.md)
+2.  [Getting started](responsive-2.md)
+3.  [Media Queries](responsive-3.md)
+4.  [Grid Systems](responsive-4.md)
+5.  [Frameworks](responsive-5.md)
 
 ## Additional Resources
 

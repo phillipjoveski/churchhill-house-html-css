@@ -1,7 +1,5 @@
 # Module 3: CSS
 
-_Workshops are not recorded._
-
 ## This module
 Now that you understand HTML, we'll move onto looking at CSS: the presentation layer. 
 

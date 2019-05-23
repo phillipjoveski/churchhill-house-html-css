@@ -44,6 +44,7 @@ As Chris Coyier (of CSS Tricks) [explains](https://css-tricks.com/reboot-resets-
 >the whole idea of a CSS reset is to deal with styling inconsistencies across browsers. For example, just now I popped a `<button>` onto a page with no other styling whatsoever. Chrome applies `padding: 2px 6px 3px;` - Firefox applies `padding: 0 8px;`. A CSS reset would apply new padding to that element, so that all browsers are consistent about what they apply. 
 
 
+
 ## Two main options
 
 Eric Meyer’s reset:
@@ -53,15 +54,15 @@ Normalize.css:
 [http://necolas.github.io/normalize.css/](http://necolas.github.io/normalize.css/)
 
 
+
 # CSS fundamentals
-
-
 ## Introduction
 
 - Why is it called CSS?
 - Basic syntax 
 - Targeting elements
 - Basic properties
+
 
 
 ## Why CSS?
@@ -76,8 +77,11 @@ Works internally as well
 - If you include the same property twice, the latter one will be used
 
 
+
 ## Syntax
 ![Syntax](./images/css-1-1.png)
+
+
 
 ![Syntax](./images/css-1-2.png)
 

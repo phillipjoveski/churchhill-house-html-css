@@ -1,10 +1,12 @@
 # HTML 3: Coding introduction
 
+
+
 ### Introduction
 
-Describe some key coding terms 
-
-Outline the default HTML structure and describe how it works
+- Describe some key coding terms 
+- Outline the default HTML structure 
+- Describe how it works
 
 
 
@@ -24,6 +26,7 @@ Outline the default HTML structure and describe how it works
 - E.g. headings, paragraphs, nav, footer, aside
 
 
+
 ### Key terms: tags
 
 - An element name surrounded by the less-than and greater-than angled brackets
@@ -36,7 +39,6 @@ Outline the default HTML structure and describe how it works
 ```
 <div>............</div>
 ```
-
 
 
 
@@ -54,8 +56,6 @@ Must follow the same format:
 attribute name</p>
 equals sign</p>
 quoted attribute value</p>
-
-
 
 
 
@@ -81,15 +81,9 @@ or
 
 
 
-
-
-
 ### Lowercase
 
 - Keep your code in lowercase!
-
-
-
 
 
 
@@ -103,7 +97,6 @@ Element name wrapped in `<` and `>`
 
 **Attributes**  
 Provide additional information about an element
-
 
 
 
@@ -135,8 +128,6 @@ Let's break it down!
 
 
 
-
-
 ### HTML structure
 
 ```
@@ -148,9 +139,6 @@ The first line of every document must declare what version of HTML you are writi
 This is known as the doctype declaration 
 
 In HTML5 it is super short and easy to remember, previously it was much longer
-
-
-
 
 
 
@@ -167,9 +155,6 @@ Following the doctype, the HTML element is declared
 It signifies the start of the document
 
 Don’t forget to close it though, it also signifies the end of the document
-
-
-
 
 
 
@@ -191,9 +176,6 @@ Don’t forget to close the tag!
 
 
 
-
-
-
 ### HTML structure
 
 ```
@@ -204,10 +186,6 @@ Don’t forget to close the tag!
 All the visible content on the page must go between the `<body>` tags
 
 That means all text, images and layout tags 
-
-
-
-
 
 
 

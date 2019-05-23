@@ -1,15 +1,17 @@
 # CSS 6: Links and images
 
 
-## Styling Links
-
 
 ## Introduction
 
 - How to make links look a bit more interesting
+- Dealing with images
 
 
-## Key properties
+
+## Link/anchors
+
+Key properties you might like to change are:
 
 ```
 a {}
@@ -31,5 +33,3 @@ Try and see what the following do:
 - `margin`
 - `padding`
 - `border`
-
-

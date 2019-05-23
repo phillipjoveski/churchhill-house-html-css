@@ -1,9 +1,11 @@
 # CSS 4: Typography
 
 
+
 ## Introduction
 
 - We will look at how to style text in CSS
+
 
 
 
@@ -21,6 +23,7 @@ h2 {
 }
 ```
 
+<hr>
 
 ## Want more?
 

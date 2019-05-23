@@ -1,18 +1,10 @@
-
 # HTML 4: Semantic HTML5
 
-## A Basic Page
 
 
 ## Introduction
 
-I will build a basic web page using content elements
-
-I will use Brackets
-
-And some demo content
-
-You should: follow along!
+-   We'll look at semantic HTML
 
 
 
@@ -26,8 +18,10 @@ Berners-Lee first discussed the concept in 2001.
 
 Essentially they provide meaning to the content on a HTML page, rather than just focusing on presentation.
 
-Before HTML5 the structure/layout of a page was built using the `<div>` tag
 
+
+## HTML5
+Before HTML5 the structure/layout of a page was built using the `<div>` tag
 
 The `<div>` tag has no semantic value
 
@@ -39,6 +33,13 @@ HTML5 brought new elements for semantically defining structure:
 
 You must use some of these tags in your website. 
 
+
+
+## A Basic Page
+-   I will build a basic web page using semantic HTML 
+-   I will use Brackets
+-   And some demo content
+-   You should: follow along!
 
 
 
@@ -57,9 +58,6 @@ Links
 
 Images
 `<img src=”assets/images/images.jpg” alt=”image description” >`
-
-
-
 
 
 

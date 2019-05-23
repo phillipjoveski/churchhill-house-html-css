@@ -1,20 +1,10 @@
 # HTML 5: Navigation
 
-## Navigation
-
-
-
-
-
-
 
 
 ## Introduction
 
-Navigation on your website
-
-
-
+-   Navigation on your website
 
 
 
@@ -30,28 +20,8 @@ Navigation on your website
 ```
 
 
+
 When I say must, I'm not kidding, if you don't use the `<ul>` tag then you'll fail the html component
-
-
-
-
-
-<!--            START-->
-
-
-
-
-# Let's get started!
-
-
-
-
-
-
-<!--                    open brackets-->
-
-
-
 
 
 
@@ -66,8 +36,3 @@ Your navigation might look like:
     <li><a href=”history.html”>History</a></li>
 </ul>
 ```
-
-Code is available in GitHub
-
-
-

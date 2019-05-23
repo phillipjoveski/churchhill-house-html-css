@@ -1,9 +1,8 @@
 # HTML 2: Site Setup, coding software
 
 
-## Site setup
 
-### Introduction
+## Introduction
 
 - Setting up your workspace
 - Getting file names right
@@ -11,28 +10,21 @@
 
 
 
-### Workspace setup
+## Workspace setup
 
 - It is crucial to get the initial setup right
 - Need to be aware of folder structure 
 - Helpful if you already know the page structure
 
 
-
-
-
                 
-### Folder structure
+## Folder structure
 !!! info
     Errors in the folder structure and file names are the number 1 reason students fail the final assignment
 
 
 
-
-
-
-
-### Folders
+## Folders
 
 Create a folder for your site   
 - Save everything inside that folder
@@ -44,16 +36,14 @@ You need to use the required folder structure for your projects
 
 
 
-
-
-
-### Required folder structure
+## Required folder structure
 
 Root directory is the top-level folder 
 - I.e. the folder that contains any sub-folders
 - All HTML files MUST be in the root directory
 
-![folder structure](images/html-2-1.png)
+![folder structure](assets/images/folder-structure.png)
+
 
 
 Inside the root directory, you will have an assets folder  
@@ -62,7 +52,8 @@ it will contain at least two extra folders:
 - One for your images
 
 
-### Case sensitive
+
+## Case sensitive
 
 The web is case sensitive
 
@@ -75,12 +66,7 @@ Keep **folder and filenames in lowercase** for simplicity
 
 
 
-
-
-
-
-
-### File names
+## File names
 
 As before,   
 Errors in the folder structure and file names are the number 1 reason students fail the final assignment
@@ -89,10 +75,7 @@ Get it right at the beginning
 
 
 
-
-
-
-### File name rules
+## File name rules
 
 There are some rules on the web that you must follow
 
@@ -101,40 +84,33 @@ If you don’t, your website won’t work online
 There are some exceptions, but for this project we have certain requirements, make sure you know what they are...
 
 
-#### Rule 1: lowercase
+
+### Rule 1: lowercase
 
 1. All filenames must be in lowercase
 On the Web, mypage.html is different to Mypage.html 
 
 
 
-
-
-
-#### Rule 2: no spaces
+### Rule 2: no spaces
 
 2. There cannot be any spaces in filenames (or folders)
 If the filename was my page.html and in the code you linked to the file as mypage.html it would not load
 
 
 
-
-#### Rule 3: default naming
+### Rule 3: default naming
 
 3. The homepage must be called index.html
 Regardless of what you want to call the first page of your website, the filename must be index.html <br>Not: homepage.html, default.html or anything else 
 
 
 
-
-
-### Rules
+## Rules
 
 1. All filenames must be in lowercase
 2. There cannot be any spaces in filenames (or folders)
 3. The homepage must be called index.html
-
-
 
 
 
@@ -149,18 +125,7 @@ This might seem overly specific now, but small mistakes at this stage can cause 
 
 
 
-
-
-
 ## GitHub
-
-
-
-
-
-
-
-### GitHub
 
 We will use GitHub as a code repository
 
@@ -169,23 +134,9 @@ Please signup to GitHub (it's free): [github.com](http://github.com)
 
 
 ## Coding Software
-
-
-
-
-
-
-
-
 ### Introduction
 
-Will briefly discuss various coding tools and their pros and cons
-
-
-
-
-
-
+Let's briefly discuss various coding tools and their pros and cons
 
 
 
@@ -197,9 +148,6 @@ That means:
 - You can open the files in any text editor 
 - There are no compatibility issues between programs
 - You **do not** need to pay for a program
-
-
-
 
 
 
@@ -216,19 +164,11 @@ We will discuss:
 
 
 
-
-
-
 ### Features you want
 
 - Code hinting
 - Colour coding
 - Auto completion
-
-
-
-
-
 
 
 
@@ -240,8 +180,6 @@ We will discuss:
 **Cons**
 - Paid and only available as part of Adobe CC 
 - Tendency for students to get stuck using ‘design’ mode rather than ‘code’ view
-
-
 
 
 
@@ -259,9 +197,6 @@ We will discuss:
 
 
 
-
-
-
 ### Sublime
 **Pros**
 - Free
@@ -273,8 +208,6 @@ We will discuss:
 
 
 
-
-
 ### Notepad (PC)/ TextEdit (Mac)
 
 **Pros**
@@ -283,10 +216,6 @@ We will discuss:
 
 **Cons**
 - No colour coding or autocompletion = increases chance of mistakes in code
-
-
-
-
 
 
 
@@ -302,8 +231,6 @@ We will discuss:
 
 
 
-
-
 ### What should I use?
 
 Good question!
@@ -312,6 +239,3 @@ We will use Brackets in the workshops
 
 You can use whatever you like, but, be careful:  
 - if it generates code for you = fail
-
-
-

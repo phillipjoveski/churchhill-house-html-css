@@ -1,5 +1,7 @@
 # HTML 6: Validation
 
+
+
 ## Introduction
 
 We’ll look at validation
@@ -7,6 +9,7 @@ We’ll look at validation
 - What it is
 - Why it is important
 - How can you do it
+
 
 
 ## Validate your code
@@ -20,12 +23,12 @@ You can then fix these issues (hopefully)
 If you can’t resolve the error, then ask us! 
 
 
+
 ## Validator
 
 W3C Validator: [http://validator.w3.org](http://validator.w3.org)  
 
 Many code editors will have a validation plugin
-
 
 Here's one for Brackets: [Nu Markup Checker](https://github.com/takenspc/brackets-numarkupchecker) 
 

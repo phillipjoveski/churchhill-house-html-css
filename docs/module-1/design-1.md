@@ -1,10 +1,16 @@
-# Design 1: Web Design Attributes
+# Web Design Attributes
 
 The first module will introduce you to key web design attributes and conventions. These will become more apparent as you start looking at, and thinking critically about, a wide range of different websites. One of the main aims of this module is to make you aware of the wide range of different styles that are used to define a website.
 
+
+
 ## Where to start?
 
+
+
 As a new student, or even a student with existing knowledge of the field, it is super important to first understand the area in which you are working. By that I mean you should be familar with current Web design trends, conventions and common attributes. 
+
+
 
 ## Web Design research
 Use these links to start your research process: 
@@ -15,6 +21,8 @@ Use these links to start your research process:
 
 !!! tip
     There are heaps more, just try Googling 'web design inspiration'
+
+
 
 ## What to look for...
 
@@ -33,14 +41,20 @@ For example:
 and so on... 
 
 
+
+
 ## Understanding Web Conventions
 
 As you start to look around at a wide range of website, you'll notice that they all share similar attributes. When the same attribute exists across a number of sites it could be considered as a design convention:
 
 !!! info
     It is a convention to place the logo in the top left corner of the website. When you hover over the logo you expect to be able to click on it to return to the home page. 
-    
+ 
+ 
+ 
 ## Common attributes
+
+
 
 ### Width
 How wide is the website?
@@ -50,6 +64,8 @@ Most sites are responsive, have a fixed width, or are fluid.
 You can be responsive and still have a fixed width. 
 
 We'll talk more about responsive design in [module 4](/../../module-4/).
+
+
 
 ### Alignment
 
@@ -63,6 +79,8 @@ Generally, it would be:
 
 Rare to see a right aligned site
 
+
+
 ### Header
 Includes
 
@@ -74,6 +92,8 @@ Includes
 
 Trend: to be fixed to top of screen on scroll - known as a sticky header
 
+
+
 ### Logo
 
 Either an image or text
@@ -82,10 +102,14 @@ Either an image or text
 *   Good to change the logo on hover - provides the user with visual feedback, suggests they can click on it
 *   Often links home
 
+
+
 ### Search
 
 *   Generally only on larger sites with lots of content
 *   Relies on a database or external system to work 
+
+
 
 ### Navigation
 Three key types:
@@ -99,20 +123,28 @@ Three key types:
 *   Tertiary
     *   Third level, perhaps links in the footer
 
+
+
 ### Hero Content
 Used to bring focus to something (e.g. a product for sale, or a blog post) 
 
 Or to rotate through some images or video, bringing the website to life. 
+
+
 
 ### Sidebar
 *   Does it exist?
 *   They are going out of fashion…
 *   Why? Because of responsive design
 
+
+
 ### Footer
 *   Repeat the primary navigation
 *   Social media icons
 *   Copyright / Terms of Service / Credits
+
+
 
 ### Key colours
 
@@ -124,6 +156,8 @@ Lots of tools to help with choosing a colour scheme:
 *   [Colour Lovers](https://www.colourlovers.com/)  
 *   [Adobe Color](https://color.adobe.com/create)
 
+
+
 ### Key typefaces
 
 How are they used together? 
@@ -131,6 +165,7 @@ How are they used together?
 Headings in sans-serif, content in serif or vice versa
 
 See [Font Pair](https://fontpair.co/) for some good examples
+
 
 
 ### Special features
