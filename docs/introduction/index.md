@@ -59,8 +59,10 @@ There are 4 modules:
 ## Project 1: Website Design
 
 - Content from Module 1 
-- Basic site (no styles) 
-- Validate your code!
+- Look for design references
+- Develop some basic low-fi sketches
+- Inspiration board
+
 
 
 
@@ -111,14 +113,17 @@ That means:
 
 ## Materials and Equipment
 
-**Code Editor**
+**Canvas and GitHub**
 
-- Many free options available. See links on Canvas.
+-   All the unit content will be available on our GitHub page 
+-   Link is all over Canvas. 
 
-**GitHub**  
+**Software**
 
-- Free, we'll use this to host your code 
-- Can be a bit intimidating to get start with
+- You'll need a code editor
+- We'll use GitHub 
+
+Info on Canvas/GitHub
 
 
 
@@ -133,11 +138,6 @@ That means:
 
 - Not recorded
 - We will work on parts of the assessment items in the workshops
-
-**Canvas and GitHub**
-
--   All the unit content will be available on our GitHub page 
--   Link is all over Canvas. 
 
 
 
