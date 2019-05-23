@@ -56,6 +56,7 @@ There are 4 modules:
 -   Quiz. Due by Friday week 7. Worth 20%.
 
 
+
 ## Project 1: Website Design
 
 - Content from Module 1 
