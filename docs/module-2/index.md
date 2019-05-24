@@ -17,11 +17,13 @@ You will learn how to:
 ### HTML
 
 1.   [Introduction to the Web](html-1.md)
-2.   [Software and setting up your site](html-2.md)
-3.   [Coding Introduction](html-3.md)
-4.   [Writing a basic page with semantic HTML](html-4.md)
-5.   [Navigation](html-5.md)
-6.   [Validation](html-6.md)
+2.   [GitHub](html-2.md)
+3.   [Setting up your site](html-3.md)
+4.   [Coding Software](html-4.md)
+5.   [Coding Introduction](html-5.md)
+6.   [Writing a basic page with semantic HTML](html-6.md)
+7.   [Navigation](html-7.md)
+8.   [Validation](html-8.md)
 
 ### Slides
 The information on the pages above is also available as slides (generally used for presentation in class) [here](slides/index.md).

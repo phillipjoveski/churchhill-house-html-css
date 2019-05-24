@@ -1,212 +1,127 @@
-# HTML 3: Coding introduction
+# Site Setup
 
 
 
-### Introduction
+## Introduction
 
-- Describe some key coding terms 
-- Outline the default HTML structure 
-- Describe how it works
+- Setting up your workspace
+- Getting file names right
 
 
 
-### Key terms 
+## Workspace setup
 
-- Elements
-- Tags
-- Attributes
+- It is crucial to get the initial setup right
+- Need to be aware of folder structure 
+- Helpful if you already know the page structure
 
 
+                
+## Folder structure
+!!! info
+    Errors in the folder structure and file names are the number 1 reason students fail the final assignment
 
-### Key terms: elements
 
-- Define the structure and content of objects within a page
-- We want to write semantic HTML 
-- Using the most appropriate element for the content 
-- E.g. headings, paragraphs, nav, footer, aside
 
+## Folders
 
+When you created your GitHub repo, you created the folder that will hold your site. 
 
-### Key terms: tags
+You need to ensure that you:
+- Save everything needed for the website inside that folder
+- Do not move the files around - you will break the links if you do
+- Put the assets (images, CSS file) in subfolders to help you organise
+- All HTML files should be in the root folder
 
-- An element name surrounded by the less-than and greater-than angled brackets
-- Most commonly occur in pairs
-- They open and close
-- Opens like: `<div>`
-- Closes like: `</div>`
-- What falls between is the content of a tag:
+You need to use the required folder structure for your projects
 
-```
-<div>............</div>
-```
 
+## Required folder structure
 
+Root directory is the top-level folder (the repo folder)
+- I.e. the folder that contains any sub-folders
+- All HTML files MUST be in the root directory
 
-### Key terms: attributes
+![folder structure](assets/images/folder-structure.png)
 
-Attributes are used inside a tag and provide further information about that element
 
-Can only be in the opening tag:  
 
-```
-<div class="...">....</div>
-```
+Inside the root directory, you will have an assets folder  
+it will contain at least two extra folders:
+- One for your CSS
+- One for your images
 
-Must follow the same format:  
-attribute name</p>
-equals sign</p>
-quoted attribute value</p>
 
 
+## Case sensitive
 
-### Key terms: attributes
+The web is case sensitive
 
-For example:
+That means:
 
-```
-<a href=”http://google.com”>Google</a>
-```
+ALL folder and filenames must match
+- `assets/Images` and `assets/images` are not the same
 
-or
+Keep **folder and filenames in lowercase** for simplicity
 
-```
-<div id="col">....</div>
-```
 
-or 
 
-```
-<header><h1 class="main">Site title</h1></header>
-```
+## File names
 
+As before,   
+Errors in the folder structure and file names are the number 1 reason students fail the final assignment
 
+Get it right at the beginning
 
-### Lowercase
 
-- Keep your code in lowercase!
 
+## File name rules
 
+There are some rules on the web that you must follow
 
-### Those terms again
+If you don’t, your website won’t work online
 
-**Elements**  
-The named description of the content
+There are some exceptions, but for this project we have certain requirements, make sure you know what they are...
 
-**Tags**  
-Element name wrapped in `<` and `>`
 
-**Attributes**  
-Provide additional information about an element
 
+### Rule 1: lowercase
 
+1. All filenames must be in lowercase
+On the Web, `mypage.html` is different to `Mypage.html` 
 
-### HTML structure
 
-- All HTML documents have the same structure
-- It is very specific
-- If you put code in the wrong spot then you will have major issues when you validate the code later
 
+### Rule 2: no spaces
 
+2. There cannot be any spaces in filenames (or folders)
+If the filename was `my page.html` and in the code you linked to the file as `mypage.html` it would not load
 
-### HTML structure
-Here is the basic html5 document structure:
 
-```
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title></title>
-        <meta charset="utf-8">
-    </head>
-    <body>
 
-    </body>
-</html>
-```
+### Rule 3: default naming
 
-Let's break it down!
+3. The homepage must be called index.html
+Regardless of what you want to call the first page of your website, the filename must be `index.html` 
 
+Not: `homepage.html`, `default.html` or anything else 
 
 
-### HTML structure
 
-```
-<!DOCTYPE html>
-```
+## Rules again...
 
-The first line of every document must declare what version of HTML you are writing
+1. All filenames must be in lowercase
+2. There cannot be any spaces in filenames (or folders)
+3. The homepage must be called `index.html`
 
-This is known as the doctype declaration 
 
-In HTML5 it is super short and easy to remember, previously it was much longer
 
+## File location
 
+HTML files must be in the root folder
 
-### HTML structure
+- CSS file to go in `assets/css`
+- All images in `assets/images`
 
-```
-<html>
-
-
-</html>
-```
-Following the doctype, the HTML element is declared
-
-It signifies the start of the document
-
-Don’t forget to close it though, it also signifies the end of the document
-
-
-
-### HTML structure
-
-```
-<head>
-    <title></title>
-</head>
-
-```
-The content within the `<head>` does not actually appear on the page 
-
-This is where you set the title that appears in the browser
-
-Also where you will add the link to your CSS documents later
-
-Don’t forget to close the tag! 
-
-
-
-### HTML structure
-
-```
-<body>
-    <p>Content would go here</p>
-</body>
-```
-All the visible content on the page must go between the `<body>` tags
-
-That means all text, images and layout tags 
-
-
-
-### Super simple page
-
-A very simple page would look like this:
-
-
-```
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>My first web page</title>
-        <meta charset="utf-8">
-    </head>
-    <body>
-        <h1>Hello World.</h1>
-        <p>This is a basic web page.</p>
-    </body>
-</html>
-```
-
-[See page here](code/basic-html.html).
+This might seem overly specific now, but small mistakes at this stage can cause huge issues later. 
 

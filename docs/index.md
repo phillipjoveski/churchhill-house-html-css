@@ -16,9 +16,10 @@ Text from the video is available [here](intrduction/) or under the *Introduction
 *   Lecture recording available on Canvas.
 
 ## Modules
-- Module 1: [HTML5 and CSS](module-1/)
-- Module 2: [Responsive Web Design](module-2/)
-- Module 3: [Accessibility and Usability](module-3/)
+- Module 1: [Designing for the Web](module-1/)
+- Module 2: [HTML5](module-2/)
+- Module 3: [CSS](module-3/)
+- Module 4: [Responsive CSS](module-4/)
 
 ## Software you will need
 

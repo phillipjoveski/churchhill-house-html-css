@@ -1,74 +1,143 @@
-# HTML 4: Semantic HTML5
+# Coding Software
+
 
 
 
 ## Introduction
 
--   We'll look at semantic HTML
+Let's briefly discuss various coding tools and their pros and cons
 
 
 
-## Semantic HTML
+## A note about editors
 
-We will learn to write [Semantic HTML](https://www.lifewire.com/why-use-semantic-html-3468271)
+HTML and CSS are just plain text
 
-> Elements, attributes, and attribute values in HTML are defined to have certain meanings (semantics). For example, the `ol` element represents an ordered list, and the `lang` attribute represents the language of the content. [(W3C, HTML 5.1 spec)](https://www.w3.org/TR/2016/REC-html51-20161101/dom.html#elements-semantics)
+That means:  
 
-Berners-Lee first discussed the concept in 2001.
-
-Essentially they provide meaning to the content on a HTML page, rather than just focusing on presentation.
-
+- You can open the files in any text editor 
+- There are no compatibility issues between programs
 
 
-## HTML5
-Before HTML5 the structure/layout of a page was built using the `<div>` tag
+!!! tip
+    **You do not need to pay for a program.**
 
-The `<div>` tag has no semantic value
 
-HTML5 brought new elements for semantically defining structure:
+## Features you want
 
-```
-<header>, <nav>, <main>, <aside>, <footer>
-```
-
-You must use some of these tags in your website. 
+- Code hinting
+- Colour coding
+- Auto completion
 
 
 
-## A Basic Page
--   I will build a basic web page using semantic HTML 
--   I will use Brackets
--   And some demo content
--   You should: follow along!
+## Many Options
+
+There are many, many different tools available
+
+All have different strengths and weaknesses
+
+No need to pay - the free tools are often better
+
+We will discuss: 
+
+- Dreamweaver
+- Coda
+- Sublime Text 
+- Notepad/TextEdit
+- Brackets 
+
+<hr>
 
 
 
-## Semantic HTML5 tags
-
-Default HTML5 structure
-
-Heading tags
-`<h1>, <h2>, <h3>, <h4>, <h5>, <h6>`
-
-Paragraphs
-`<p>`
-
-Links
-`<a href=”link.html”>Link text</a>`
-
-Images
-`<img src=”assets/images/images.jpg” alt=”image description” >`
 
 
+### Dreamweaver
 
-## Tags we covered
+Download: [Dreamweaver](https://www.adobe.com/au/products/dreamweaver.html) 
 
-```
-<header>
-<nav>
-<main>
-<section>
-<aside>
-<footer>
-```
+**Pros**
 
+- Lots of features
+- Colour coding and autocompletion
+
+**Cons**
+
+- Paid and only available as part of Adobe CC 
+- Tendency for students to get stuck using ‘design’ mode rather than ‘code’ view
+
+
+
+### Coda
+
+Download: [Coda](https://panic.com/coda/)
+
+**Pros**
+
+- Lots of features
+- Built in browser
+- Colour coding/autocompletion
+- Built in FTP for uploading to web
+
+
+**Cons**
+- Costs ~ $100 usd
+- Mac only
+
+
+
+### Sublime
+
+Download: [Sublime](https://www.sublimetext.com/)
+
+**Pros**
+
+- Free
+- Mac and PC
+- Super fast
+
+**Cons**
+
+- Overly simpilistic for first-time coders
+
+
+
+### Notepad (PC)/TextEdit (Mac)
+
+**Pros**
+
+- Free
+- Plain text editors 
+
+**Cons**
+
+- No colour coding or autocompletion = increases chance of mistakes in code
+
+
+
+### Brackets
+
+Download: [Brackets](http://brackets.io)
+
+**Pros**
+
+- Free
+- Mac and PC
+- Great extensions
+- Super fast
+
+**Cons**
+
+- ?
+
+<hr>
+
+## What should I use?
+
+Good question!
+
+We will use Brackets in the workshops 
+
+You can use whatever you like, but, be careful:  
+- if it generates code for you = fail

@@ -1,3 +1,5 @@
+# Common Tags
+
 It is likely that you will only need a small selection of HTML tags to markup your content.
 
 A full listing of HTML tags, with definitions and examples, can be found here: [Mozilla HTML tag reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

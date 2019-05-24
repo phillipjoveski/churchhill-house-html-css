@@ -1,241 +1,85 @@
-# HTML 2: Site Setup, coding software
+# GitHub
 
 
 
 ## Introduction
-
-- Setting up your workspace
-- Getting file names right
 - Signing up to GitHub
+- GitHub desktop
+- Pushing the repo
 
 
 
-## Workspace setup
+## Signing up to GitHub
 
-- It is crucial to get the initial setup right
-- Need to be aware of folder structure 
-- Helpful if you already know the page structure
+If you haven't already, you need to sign up to GitHub
+
+Go here: [https://github.com/join](https://github.com/join)
+
+!!! warning
+    Don't use your student ID as your username. 
+    
 
 
-                
-## Folder structure
+
+## Download GitHub Desktop
+
+Once you've signed up, download GitHub Desktop: [https://desktop.github.com/](https://desktop.github.com/)
+
+- It's a free for both Mac and PC
+- It will allow you to easily push your work to GitHub
+
+
+
+## Getting started
+
+<!--
+You should already have created your site folder on your computer. 
+If not, head back to [Site Setup](html-2/) and follow the steps.
+-->
+
 !!! info
-    Errors in the folder structure and file names are the number 1 reason students fail the final assignment
+    **TL;DR**
+    Basically, create a folder on your computer to hold all your website files. In this folder, make a new folder called 'assets', in the assets folder make 2 extra folders, call them: 'images' and 'css'. **All in lowercase, no spaces.** 
+    
 
+### Create a repository
 
+Three ways:
 
-## Folders
+- From GitHub.com
+- From GitHub Desktop
+- From Command Line
 
-Create a folder for your site   
-- Save everything inside that folder
-- Do not move the files around - you will break the links if you do
-- Put the assets (images, CSS file) in subfolders to help you organise
-- All HTML files should be in the root folder
+We'll do it from GitHub Desktop.
 
-You need to use the required folder structure for your projects
+!!! tip 
+    A repository is often referred to as a 'repo' 
 
 
+### GitHub Desktop
 
-## Required folder structure
+1. Open GitHub Desktop
+2. Click `File` > `New Repository` 
+3. In the form that appears, fill in the following:
 
-Root directory is the top-level folder 
-- I.e. the folder that contains any sub-folders
-- All HTML files MUST be in the root directory
+![GitHub repo](assets/images/github-repo.png)
 
-![folder structure](assets/images/folder-structure.png)
 
+**Name:** *give your project a name* e.g. mywebsite
 
+**Description:** *brief desciption* e.g website files for 11056 in winter 2019
 
-Inside the root directory, you will have an assets folder  
-it will contain at least two extra folders:
-- One for your CSS
-- One for your images
+**Local Path:** *this is where the folder is saved on your computer.* Choose a location - do not move the folder afterwards
 
+**Initialize this repo:** Tick Initialize this repo with a README
 
+**Git Ignore:** NONE
 
-## Case sensitive
+**License:** NONE
 
-The web is case sensitive
+Now click `Create Repository`
 
-That means:
 
-ALL folder and filenames must match
-- assets/Images and assets/images are not the same
+Go to the location where you said to create the repo and you should see the folder appear. 
 
-Keep **folder and filenames in lowercase** for simplicity
-
-
-
-## File names
-
-As before,   
-Errors in the folder structure and file names are the number 1 reason students fail the final assignment
-
-Get it right at the beginning
-
-
-
-## File name rules
-
-There are some rules on the web that you must follow
-
-If you don’t, your website won’t work online
-
-There are some exceptions, but for this project we have certain requirements, make sure you know what they are...
-
-
-
-### Rule 1: lowercase
-
-1. All filenames must be in lowercase
-On the Web, mypage.html is different to Mypage.html 
-
-
-
-### Rule 2: no spaces
-
-2. There cannot be any spaces in filenames (or folders)
-If the filename was my page.html and in the code you linked to the file as mypage.html it would not load
-
-
-
-### Rule 3: default naming
-
-3. The homepage must be called index.html
-Regardless of what you want to call the first page of your website, the filename must be index.html <br>Not: homepage.html, default.html or anything else 
-
-
-
-## Rules
-
-1. All filenames must be in lowercase
-2. There cannot be any spaces in filenames (or folders)
-3. The homepage must be called index.html
-
-
-
-### File location
-
-HTML files must be in the root folder
-
-- CSS file to go in assets > css
-- All images in assets > images
-
-This might seem overly specific now, but small mistakes at this stage can cause huge issues later. 
-
-
-
-## GitHub
-
-We will use GitHub as a code repository
-
-Please signup to GitHub (it's free): [github.com](http://github.com)
-
-
-
-## Coding Software
-### Introduction
-
-Let's briefly discuss various coding tools and their pros and cons
-
-
-
-### A note about editors
-
-HTML and CSS are just plain text
-
-That means:  
-- You can open the files in any text editor 
-- There are no compatibility issues between programs
-- You **do not** need to pay for a program
-
-
-
-### Many Options
-
-There are many, many different tools available
-
-All have different strengths and weaknesses
-
-No need to pay - the free tools are often better
-
-We will discuss:  
-- Dreamweaver, Coda, Brackets, Sublime and Notepad
-
-
-
-### Features you want
-
-- Code hinting
-- Colour coding
-- Auto completion
-
-
-
-### Dreamweaver
-**Pros**
-- Lots of features
-- Colour coding and autocompletion
-
-**Cons**
-- Paid and only available as part of Adobe CC 
-- Tendency for students to get stuck using ‘design’ mode rather than ‘code’ view
-
-
-
-### Coda
-**Pros**
-- Lots of features
-- Built in browser
-- Colour coding/autocompletion
-- Built in FTP for uploading to web
-
-
-**Cons**
-- Costs ~ $100 usd
-- Mac only
-
-
-
-### Sublime
-**Pros**
-- Free
-- Super fast
-
-**Cons**
-- Mac only
-- Overly simpilistic for first-time coders
-
-
-
-### Notepad (PC)/ TextEdit (Mac)
-
-**Pros**
-- Free
-- Plain text editors 
-
-**Cons**
-- No colour coding or autocompletion = increases chance of mistakes in code
-
-
-
-### [Brackets](http://brackets.io)
-
-**Pros**
-- Free
-- Great extensions
-- Super fast
-
-**Cons**
-- ?
-
-
-
-### What should I use?
-
-Good question!
-
-We will use Brackets in the workshops 
-
-You can use whatever you like, but, be careful:  
-- if it generates code for you = fail
+Great, now move onto site setup!

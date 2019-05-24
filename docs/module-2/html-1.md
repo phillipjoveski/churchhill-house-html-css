@@ -1,8 +1,8 @@
-#  HTML 1: Introduction to the Web
+#  Introduction to the Web
 
 
 
-##  Introducion
+##  Introduction
 
 An introduction to the Web
 
