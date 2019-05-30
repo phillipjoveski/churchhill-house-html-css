@@ -2,8 +2,6 @@
 
 This module will introduce you to the basics of designing for the Web.
 
-In Winter semester, you'll cover this content in 1 week and submit project 1 by Tuesday of week 2.
-
 
 
 ## This Module
@@ -28,4 +26,3 @@ You will learn how to:
 ### Slides
 The information on the pages above is also available as slides (generally used for presentation in class) [here](slides/index.md).
 
-## Additional Resources

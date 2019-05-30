@@ -42,4 +42,4 @@ The footer needs to contain the following text:
 In the source content folder you will find an `assets` folder containing a number of images. You can use these as you need. 
 
 ## Source content
-Available here: [https://github.com/UC-Design/11056-wit-2019/assessment/churchill-house](https://github.com/UC-Design/11056-wit-2019/assessment/churchill-house) 
+Available [here](https://github.com/UC-Design/11056-wit-2019/tree/master/assessment/churchill-house).

@@ -28,13 +28,13 @@ The information on the pages above is also available as slides (generally used f
 
 One of the best things about learning to write HTML and CSS is that there is a huge amount of online resources, some include:
 
-*   [HTML5 for web designers](http://html5forwebdesigners.com/) 
-*   [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-*   [Mozilla Intro to HTML](https://developer.mozilla.org/en-US/learn/html)
-*   [HTML5 Doctor HTML Reference](http://html5doctor.com/element-index/)
-*   [W3Schools HTML Reference](http://www.w3schools.com/tags/)
-*   [W3Schools Intro to HTML](http://www.w3schools.com/html/)
-*   [CodeAcademy Intro to HTML & CSS](https://www.codecademy.com/learn/learn-html-css)
+*   [CSS Tricks Almanac](https://css-tricks.com/almanac/)
+*   [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+*   [CSSreference.io](https://cssreference.io/)
 
-Remember though, **do NOT use the `<table>` tag to layout content**. It can only be used for tabular data (e.g. numbers).
+
+## Don't forget 
+*   **do NOT use the `<table>` tag to layout content**. It can only be used for tabular data (e.g. numbers).
+*   We only want a single stylesheet for your own handwritten CSS.
+*   Don't use any inline css 
 

@@ -1,6 +1,6 @@
 # Module 2: HTML5
 
-_Workshops are not recorded._
+
 
 ## This module
 This module will introduce you to the joys of HTML. 
