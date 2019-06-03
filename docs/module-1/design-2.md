@@ -52,5 +52,11 @@ Read the rest of the [Smashing Magazine article](https://www.smashingmagazine.co
 
 ## Layout
 
-I really encourage you to start on paper. 
+As with navigation, when you start looking at different websites, you'll quickly realise that they share similar layouts. 
+
+In the most simplistic form they have a header, navigation, some main body content and a footer. Visual interest comes from the way these elements are displayed on the screen. You'll notice that the various elements line up, often utilising a strong grid. 
+
+Have a look through the *[Web Design History Timeline](https://www.webdesignmuseum.org/web-design-history)* to see how layouts have changed over time. 
+
+When you start thinking about the layout of your own website, I really encourage you to start on paper. Sketch, the basic elements and their location on the page and go from there. More information on the next page!
 
