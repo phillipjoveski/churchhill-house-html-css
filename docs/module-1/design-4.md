@@ -11,7 +11,7 @@ For the first project, you need to compile an inspiration board which should inc
 *   key colours
 
 !!! tip
-    You'll notive that these align with the key web design attributes, they also align with the basic page elements you'll need to build in your website. 
+    You'll notice that these align with the key web design attributes, they also align with the basic page elements you'll need to build in your website. 
 
 ## How to collect?
 
@@ -29,19 +29,17 @@ On a Mac, it is really easy!
 *   Just press: `cmd` + `shift` + `4` to take a selection of the screen, when you let go the image will be saved to the desktop
 
 Read more here: [How to take a screenshot on your Mac
-](https://support.apple.com/en-au/HT201361)
+](https://support.apple.com/en-au/HT201361).
 
 
 ### PC
 
-There are a few options, `prt scrn` is the button of choice. You can read about how to use it [here](https://www.digitaltrends.com/computing/how-to-take-a-screenshot-on-pc/)
+There are a few options, `prt scrn` is the button of choice. You can read about how to use it [here](https://www.digitaltrends.com/computing/how-to-take-a-screenshot-on-pc/).
 
 
 
 
 ## Submission
-
-!!! information
 
 You will need to record where each visual reference came from and include that alongside the imagery. How you present the information is up to you, but ultimately it will need to be submitted as a PDF.
 
