@@ -34,7 +34,7 @@ I'm a strong believer of using the _sketching in code_ methodology. This approac
 
 
 ## Tools
-As you can imagine, there are a heap of tools you can use. It doesn't raelly matter what you use, as long as you can export your work! Here's a few which are good:
+As you can imagine, there are a heap of tools you can use. It doesn't really matter what you use, as long as you can export your work! Here's a few which are good:
 
 * [Moqups](https://moqups.com/pricing/sign-up?p=Ewy0d). Has a great free account you can use. 
 * [Proto.io](https://proto.io/)
