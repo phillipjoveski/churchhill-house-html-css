@@ -19,7 +19,9 @@ Media Queries allow us to build on a flexible framework, and customise styles fo
 }
 ```
 The query contains two components:
+
 A. a media type (`screen`), and
+
 B. the actual query enclosed within parentheses, containing a particular media feature (`max-device-width`) to inspect, followed by the target value (`480px`).
 
 <hr>
@@ -79,6 +81,7 @@ target ÷ context = result
 font-size: 1.5em;
 ```
 
+Or try a convertor, like [PXtoEM](http://pxtoem.com/)
 
 
 ### Em’s are inherited
@@ -116,6 +119,7 @@ CSS3 has some new values for sizing things relative to the current viewport size
 `1vmax` = `1vw` or `1vh`, whichever is larger  
 If the viewport is 40cm wide, `1vw` = 0.4cm  
 
+You can read more about viewport units over at [CSS Tricks](https://css-tricks.com/fun-viewport-units/)
 
 
 ## Flexible Grids
@@ -183,6 +187,18 @@ The query contains two components:
 
 You can read about why [basing your media queries on specific device sizes is doomed to failure](https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints). 
 
+!!! tip
+To reiterate the point above (I know you'll skim over it), it is better to not set the breakpoints based on the size of the device, because there are far too many devices AND you can't predict the future. 
+
+
+
+### Media Queries and the navigation 
+
+As you'd aware, it is very common to hide the navigation behind a hamburger style button when viewing the site on smaller devices. In order to do this, you need to write some more advanced CSS. 
+
+There is a fantastic tutorial explaining how to create a pure CSS hamburger-style menu here: [Responsive, Pure CSS Off-Canvas Hamburger Menu](https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793).
+
+There are plenty of other code examples online, e.g. see [this post](https://redstapler.co/10-awesome-css-hamburger-menu/). If you do choose to follow along with one of these tutorials, make sure you reference it appropriately in your reflection. I'll be checking to see that you are able to integrate and adapt the code so it fits in with your work - rather than you just copying and pasting it without actually thinking about what is going on. 
 
 
 
