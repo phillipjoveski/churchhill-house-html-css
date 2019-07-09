@@ -29,7 +29,5 @@ Semantic markup is extremely portable, and ensures websites are ready to adapt t
     It is crucial that you use semantic markup when creating your websites. 
 
 
-## The Design
-
 
 

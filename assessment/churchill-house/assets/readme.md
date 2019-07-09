@@ -6,7 +6,7 @@ There are 2 image folders:
 
 **Boyd Foundation logos**
 
-These are the official logos for the Robin Boyd Foundation. Their website is available [here](https://robinboyd.org.au/). Note that these should not be used as the primary logo for the site, please refer back to the brief for the site title information. 
+These are the official logos for the Robin Boyd Foundation. Their website is available [here](https://robinboyd.org.au/). Note that these **should not be used** as the primary logo for the site, please refer back to the brief for the site title information. 
 
 **House images**
 
@@ -41,7 +41,29 @@ This folder contains a number of photos and plans of the building, as well as a 
 23. Churchill House exterior detail (photo Ben Ennis Butler)
 24. Churchill House interior detail
 25. Churchill House interior detail
-26. Robin Boyd
+26. Churchill House exterior (photo Ben Ennis Butler)
+27. Churchill House exterior (photo Ben Ennis Butler)
+28. Churchill House exterior (photo Ben Ennis Butler)
+29. Churchill House exterior (photo Ben Ennis Butler)
+30. Churchill House exterior (photo Ben Ennis Butler)
+31. Churchill House exterior (photo Ben Ennis Butler)
+32. Churchill House exterior (photo Ben Ennis Butler)
+33. Churchill House exterior (photo Ben Ennis Butler)
+34. Churchill House exterior (photo Ben Ennis Butler)
+35. Churchill House exterior (photo Ben Ennis Butler)
+36. Churchill House exterior (photo Ben Ennis Butler)
+37. Churchill House exterior (photo Ben Ennis Butler)
+38. Churchill House exterior (photo Ben Ennis Butler)
+39. Churchill House exterior (photo Ben Ennis Butler)
+40. Churchill House exterior (photo Ben Ennis Butler)
+41. Churchill House exterior (photo Ben Ennis Butler)
+42. Churchill House exterior (photo Ben Ennis Butler)
+43. Churchill House exterior (photo Ben Ennis Butler)
+44. Churchill House exterior (photo Ben Ennis Butler)
+45. Churchill House exterior (photo Ben Ennis Butler)
+46. Churchill House exterior (photo Ben Ennis Butler)
+47. Churchill House exterior (photo Ben Ennis Butler)
+48. Churchill House exterior (photo Ben Ennis Butler)
 
 ### Extra images
 

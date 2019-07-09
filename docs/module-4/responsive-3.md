@@ -188,7 +188,7 @@ The query contains two components:
 You can read about why [basing your media queries on specific device sizes is doomed to failure](https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints). 
 
 !!! tip
-To reiterate the point above (I know you'll skim over it), it is better to not set the breakpoints based on the size of the device, because there are far too many devices AND you can't predict the future. 
+    To reiterate the point above (I know you'll skim over it), it is better to not set the breakpoints based on the size of the device, because there are far too many devices AND you can't predict the future. 
 
 
 
