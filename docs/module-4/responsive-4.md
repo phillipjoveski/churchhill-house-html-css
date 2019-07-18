@@ -6,7 +6,9 @@
 
 -  Grid Systems 
 
-
+!!!important
+    You don't need to use CSS grid layout or flexbox for your assignment. You'll find it substanially easier to use either method if you are starting from scratch, rather than trying to fit it into your current work. 
+    Keep it in your memory for next time!
 
 ## CSS Grid Layout
 

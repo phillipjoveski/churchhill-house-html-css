@@ -24,6 +24,16 @@ A. a media type (`screen`), and
 
 B. the actual query enclosed within parentheses, containing a particular media feature (`max-device-width`) to inspect, followed by the target value (`480px`).
 
+
+### But what do I need to do?
+
+You need to write media queries that target different device sizes to ensure your website looks good across a wide range of screen sizes. 
+
+!!! danger
+    Make sure you carefully read and consider the content on this page. You will discover that it is better to not set the breakpoints based on the size of the device, because there are far too many devices AND you can't predict the future. 
+
+
+
 <hr>
 
 
@@ -122,21 +132,6 @@ If the viewport is 40cm wide, `1vw` = 0.4cm
 You can read more about viewport units over at [CSS Tricks](https://css-tricks.com/fun-viewport-units/)
 
 
-## Flexible Grids
-How to get started with flexible grids?  
-We can re-use the same formula that let us calculate ems!
-
-Make sure you also look at the CSS Grid Layout on the next [page](../responsive-4/). 
-
-From pixels to percentages
-
-_target ÷ context = result_
-
-![Flexible grids](images/responsive-2-grids.png)
-
-`700 ÷ 1000 = 0.7 = 70%`  
-`290 ÷ 1000 = 0.3 = 29%`  
-`200 ÷ 700 = 0.285 = 28.5%`
 
 ## Flexible images
 
@@ -154,7 +149,29 @@ This forces any image to adjust to the container width.
 
 
 
-### Media queries
+## Flexible Grids
+
+!!! info
+    If you are already using media queries, you don't probably don't need to use flexible grids! 
+
+How to get started with flexible grids?  
+We can re-use the same formula that let us calculate ems!
+
+Make sure you also look at the CSS Grid Layout on the next [page](../responsive-4/). 
+
+From pixels to percentages
+
+_target ÷ context = result_
+
+![Flexible grids](images/responsive-2-grids.png)
+
+`700 ÷ 1000 = 0.7 = 70%`  
+`290 ÷ 1000 = 0.3 = 29%`  
+`200 ÷ 700 = 0.285 = 28.5%`
+
+
+
+## Media queries
 
 As above (so you don't forget):
 
@@ -169,6 +186,7 @@ The query contains two components:
 
 - A. a media type (`screen`), and
 - B. the actual query enclosed within parentheses, containing a particular media feature (`max-device-width`) to inspect, followed by the target value (`480px`).
+
 
 
 
